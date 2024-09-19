@@ -6,3 +6,6 @@
   <h3 style="margin: 0px;">This is the repository of the website https://porogoramer.com.</h3>
   <h3>Home to the team's portfolio and each staff's portfolio and our minecraft server hosting services.</h3>
 </div>
+
+# ![porogoramer logo](porogoramer_logo.svg) porogoramer.com
+
