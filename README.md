@@ -2,7 +2,7 @@
     <img src="porogoramer_logo.svg"/>
     <h3>porogoramer.com</h3>
     <p>A comprehensive guide to understanding and using the porogoramer.com repository.</p>
-    <img alt="Static Badge" src="https://img.shields.io/badge/project_status-Moving_steady-15c243?style=flat"/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Project_status-Moving_steadily-15c243?style=flat"/>
     <img alt="Static Badge" src="https://img.shields.io/badge/Project_phase-In_production-bfbf1d?style=flat"/>
     <br/>
 </div>
